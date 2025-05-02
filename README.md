@@ -10,7 +10,7 @@ Ce projet a été réalisé au cours de mon Master en Géomatique Appliquée aux
 
 ## Contenu du projet
   - Le workflow FME (.fmw)
-  - Deux dalles de nuages de points au format .copc.laz
+  - Lien de télechargement de deux dalles de nuages de points au format .copc.laz
   - Un MNT, MNS et MNH au format .tif
   - Image du workflow FME
 
